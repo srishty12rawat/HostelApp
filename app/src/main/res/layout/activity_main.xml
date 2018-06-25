@@ -69,7 +69,7 @@
         android:layout_marginBottom="315dp"
         android:layout_marginStart="113dp"
         android:lineSpacingExtra="8sp"
-        android:text="Login"
+        android:text="Logiin"
         android:textStyle="bold"
         android:layout_marginLeft="113dp"
         android:layout_alignParentLeft="true" />
